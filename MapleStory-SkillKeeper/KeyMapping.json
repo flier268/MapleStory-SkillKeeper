@@ -1,0 +1,517 @@
+﻿{
+  "None": {
+    "Key": 0,
+    "ScanCode": 0,
+    "IsExtented": false
+  },
+  "F1": {
+    "Key": 112,
+    "ScanCode": 59,
+    "IsExtented": false
+  },
+  "F2": {
+    "Key": 113,
+    "ScanCode": 60,
+    "IsExtented": false
+  },
+  "F3": {
+    "Key": 114,
+    "ScanCode": 61,
+    "IsExtented": false
+  },
+  "F4": {
+    "Key": 115,
+    "ScanCode": 62,
+    "IsExtented": false
+  },
+  "F5": {
+    "Key": 116,
+    "ScanCode": 63,
+    "IsExtented": false
+  },
+  "F6": {
+    "Key": 117,
+    "ScanCode": 64,
+    "IsExtented": false
+  },
+  "F7": {
+    "Key": 118,
+    "ScanCode": 65,
+    "IsExtented": false
+  },
+  "F8": {
+    "Key": 119,
+    "ScanCode": 66,
+    "IsExtented": false
+  },
+  "F9": {
+    "Key": 120,
+    "ScanCode": 67,
+    "IsExtented": false
+  },
+  "F10": {
+    "Key": 121,
+    "ScanCode": 68,
+    "IsExtented": false
+  },
+  "F11": {
+    "Key": 122,
+    "ScanCode": 87,
+    "IsExtented": false
+  },
+  "F12": {
+    "Key": 123,
+    "ScanCode": 88,
+    "IsExtented": false
+  },
+  "Scroll": {
+    "Key": 145,
+    "ScanCode": 70,
+    "IsExtented": false
+  },
+  "Pause": {
+    "Key": 19,
+    "ScanCode": 69,
+    "IsExtented": false
+  },
+  "LaunchApplication2": {
+    "Key": 183,
+    "ScanCode": 33,
+    "IsExtented": true
+  },
+  "VolumeMute": {
+    "Key": 173,
+    "ScanCode": 32,
+    "IsExtented": true
+  },
+  "VolumeDown": {
+    "Key": 174,
+    "ScanCode": 46,
+    "IsExtented": true
+  },
+  "VolumeUp": {
+    "Key": 175,
+    "ScanCode": 48,
+    "IsExtented": true
+  },
+  "Oemtilde": {
+    "Key": 192,
+    "ScanCode": 41,
+    "IsExtented": false
+  },
+  "D1": {
+    "Key": 49,
+    "ScanCode": 2,
+    "IsExtented": false
+  },
+  "D2": {
+    "Key": 50,
+    "ScanCode": 3,
+    "IsExtented": false
+  },
+  "D3": {
+    "Key": 51,
+    "ScanCode": 4,
+    "IsExtented": false
+  },
+  "D4": {
+    "Key": 52,
+    "ScanCode": 5,
+    "IsExtented": false
+  },
+  "D5": {
+    "Key": 53,
+    "ScanCode": 6,
+    "IsExtented": false
+  },
+  "D6": {
+    "Key": 54,
+    "ScanCode": 7,
+    "IsExtented": false
+  },
+  "D7": {
+    "Key": 55,
+    "ScanCode": 8,
+    "IsExtented": false
+  },
+  "D8": {
+    "Key": 56,
+    "ScanCode": 9,
+    "IsExtented": false
+  },
+  "D9": {
+    "Key": 57,
+    "ScanCode": 10,
+    "IsExtented": false
+  },
+  "D0": {
+    "Key": 48,
+    "ScanCode": 11,
+    "IsExtented": false
+  },
+  "OemMinus": {
+    "Key": 189,
+    "ScanCode": 12,
+    "IsExtented": false
+  },
+  "Oemplus": {
+    "Key": 187,
+    "ScanCode": 13,
+    "IsExtented": false
+  },
+  "Back": {
+    "Key": 8,
+    "ScanCode": 14,
+    "IsExtented": false
+  },
+  "Insert": {
+    "Key": 45,
+    "ScanCode": 82,
+    "IsExtented": true
+  },
+  "Home": {
+    "Key": 36,
+    "ScanCode": 71,
+    "IsExtented": true
+  },
+  "PageUp": {
+    "Key": 33,
+    "ScanCode": 73,
+    "IsExtented": true
+  },
+  "NumLock": {
+    "Key": 144,
+    "ScanCode": 69,
+    "IsExtented": true
+  },
+  "Divide": {
+    "Key": 111,
+    "ScanCode": 53,
+    "IsExtented": true
+  },
+  "Multiply": {
+    "Key": 106,
+    "ScanCode": 55,
+    "IsExtented": false
+  },
+  "Subtract": {
+    "Key": 109,
+    "ScanCode": 74,
+    "IsExtented": false
+  },
+  "Tab": {
+    "Key": 9,
+    "ScanCode": 15,
+    "IsExtented": false
+  },
+  "Q": {
+    "Key": 81,
+    "ScanCode": 16,
+    "IsExtented": false
+  },
+  "W": {
+    "Key": 87,
+    "ScanCode": 17,
+    "IsExtented": false
+  },
+  "E": {
+    "Key": 69,
+    "ScanCode": 18,
+    "IsExtented": false
+  },
+  "R": {
+    "Key": 82,
+    "ScanCode": 19,
+    "IsExtented": false
+  },
+  "T": {
+    "Key": 84,
+    "ScanCode": 20,
+    "IsExtented": false
+  },
+  "Y": {
+    "Key": 89,
+    "ScanCode": 21,
+    "IsExtented": false
+  },
+  "U": {
+    "Key": 85,
+    "ScanCode": 22,
+    "IsExtented": false
+  },
+  "I": {
+    "Key": 73,
+    "ScanCode": 23,
+    "IsExtented": false
+  },
+  "O": {
+    "Key": 79,
+    "ScanCode": 24,
+    "IsExtented": false
+  },
+  "P": {
+    "Key": 80,
+    "ScanCode": 25,
+    "IsExtented": false
+  },
+  "OemOpenBrackets": {
+    "Key": 219,
+    "ScanCode": 26,
+    "IsExtented": false
+  },
+  "Oem6": {
+    "Key": 221,
+    "ScanCode": 27,
+    "IsExtented": false
+  },
+  "Oem5": {
+    "Key": 220,
+    "ScanCode": 43,
+    "IsExtented": false
+  },
+  "Delete": {
+    "Key": 46,
+    "ScanCode": 83,
+    "IsExtented": true
+  },
+  "End": {
+    "Key": 35,
+    "ScanCode": 79,
+    "IsExtented": true
+  },
+  "Next": {
+    "Key": 34,
+    "ScanCode": 81,
+    "IsExtented": true
+  },
+  "NumPad7": {
+    "Key": 103,
+    "ScanCode": 71,
+    "IsExtented": false
+  },
+  "NumPad8": {
+    "Key": 104,
+    "ScanCode": 72,
+    "IsExtented": false
+  },
+  "NumPad9": {
+    "Key": 105,
+    "ScanCode": 73,
+    "IsExtented": false
+  },
+  "Add": {
+    "Key": 107,
+    "ScanCode": 78,
+    "IsExtented": false
+  },
+  "NumPad4": {
+    "Key": 100,
+    "ScanCode": 75,
+    "IsExtented": false
+  },
+  "NumPad5": {
+    "Key": 101,
+    "ScanCode": 76,
+    "IsExtented": false
+  },
+  "NumPad6": {
+    "Key": 102,
+    "ScanCode": 77,
+    "IsExtented": false
+  },
+  "NumPad1": {
+    "Key": 97,
+    "ScanCode": 79,
+    "IsExtented": false
+  },
+  "NumPad2": {
+    "Key": 98,
+    "ScanCode": 80,
+    "IsExtented": false
+  },
+  "NumPad3": {
+    "Key": 99,
+    "ScanCode": 81,
+    "IsExtented": false
+  },
+  "NumPad0": {
+    "Key": 96,
+    "ScanCode": 82,
+    "IsExtented": false
+  },
+  "Decimal": {
+    "Key": 110,
+    "ScanCode": 83,
+    "IsExtented": false
+  },
+  "Return": {
+    "Key": 13,
+    "ScanCode": 28,
+    "IsExtented": true
+  },
+  "Capital": {
+    "Key": 20,
+    "ScanCode": 58,
+    "IsExtented": false
+  },
+  "A": {
+    "Key": 65,
+    "ScanCode": 30,
+    "IsExtented": false
+  },
+  "S": {
+    "Key": 83,
+    "ScanCode": 31,
+    "IsExtented": false
+  },
+  "D": {
+    "Key": 68,
+    "ScanCode": 32,
+    "IsExtented": false
+  },
+  "F": {
+    "Key": 70,
+    "ScanCode": 33,
+    "IsExtented": false
+  },
+  "G": {
+    "Key": 71,
+    "ScanCode": 34,
+    "IsExtented": false
+  },
+  "H": {
+    "Key": 72,
+    "ScanCode": 35,
+    "IsExtented": false
+  },
+  "J": {
+    "Key": 74,
+    "ScanCode": 36,
+    "IsExtented": false
+  },
+  "K": {
+    "Key": 75,
+    "ScanCode": 37,
+    "IsExtented": false
+  },
+  "L": {
+    "Key": 76,
+    "ScanCode": 38,
+    "IsExtented": false
+  },
+  "Oem1": {
+    "Key": 186,
+    "ScanCode": 39,
+    "IsExtented": false
+  },
+  "Oem7": {
+    "Key": 222,
+    "ScanCode": 40,
+    "IsExtented": false
+  },
+  "LShiftKey": {
+    "Key": 160,
+    "ScanCode": 42,
+    "IsExtented": false
+  },
+  "Z": {
+    "Key": 90,
+    "ScanCode": 44,
+    "IsExtented": false
+  },
+  "X": {
+    "Key": 88,
+    "ScanCode": 45,
+    "IsExtented": false
+  },
+  "C": {
+    "Key": 67,
+    "ScanCode": 46,
+    "IsExtented": false
+  },
+  "V": {
+    "Key": 86,
+    "ScanCode": 47,
+    "IsExtented": false
+  },
+  "B": {
+    "Key": 66,
+    "ScanCode": 48,
+    "IsExtented": false
+  },
+  "N": {
+    "Key": 78,
+    "ScanCode": 49,
+    "IsExtented": false
+  },
+  "M": {
+    "Key": 77,
+    "ScanCode": 50,
+    "IsExtented": false
+  },
+  "Oemcomma": {
+    "Key": 188,
+    "ScanCode": 51,
+    "IsExtented": false
+  },
+  "OemPeriod": {
+    "Key": 190,
+    "ScanCode": 52,
+    "IsExtented": false
+  },
+  "OemQuestion": {
+    "Key": 191,
+    "ScanCode": 53,
+    "IsExtented": false
+  },
+  "RShiftKey": {
+    "Key": 161,
+    "ScanCode": 54,
+    "IsExtented": false
+  },
+  "LControlKey": {
+    "Key": 162,
+    "ScanCode": 29,
+    "IsExtented": false
+  },
+  "LWin": {
+    "Key": 91,
+    "ScanCode": 91,
+    "IsExtented": true
+  },
+  "Space": {
+    "Key": 32,
+    "ScanCode": 57,
+    "IsExtented": false
+  },
+  "RWin": {
+    "Key": 92,
+    "ScanCode": 92,
+    "IsExtented": true
+  },
+  "RControlKey": {
+    "Key": 163,
+    "ScanCode": 29,
+    "IsExtented": true
+  },
+  "Left": {
+    "Key": 37,
+    "ScanCode": 75,
+    "IsExtented": true
+  },
+  "Up": {
+    "Key": 38,
+    "ScanCode": 72,
+    "IsExtented": true
+  },
+  "Down": {
+    "Key": 40,
+    "ScanCode": 80,
+    "IsExtented": true
+  },
+  "Right": {
+    "Key": 39,
+    "ScanCode": 77,
+    "IsExtented": true
+  }
+}

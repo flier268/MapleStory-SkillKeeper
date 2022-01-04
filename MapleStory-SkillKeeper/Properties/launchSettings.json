@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "MapleStory-SkillKeeper": {
+      "commandName": "Project",
+      "remoteDebugEnabled": true,
+      "remoteDebugMachine": "DESKTOP-CBAS1FR"
+    }
+  }
+}
