@@ -3,10 +3,8 @@ using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.Linq;
+using System.Media;
 using System.Text.RegularExpressions;
-using System.Threading;
-using System.Windows.Media.Imaging;
-using MapleStory_SkillKeeper.Model;
 using MapleStory_SkillKeeper.Plugin;
 
 namespace MapleStory_SkillKeeper
@@ -55,6 +53,7 @@ namespace MapleStory_SkillKeeper
         private void BackgroundWorker_DoWork(object? sender, DoWorkEventArgs e)
         {
             BackgroundSimulate backgroundSimulate = new();
+
             while (true)
             {
                 var ps = Process.GetProcessesByName(ViewModel.MapleStoryProcessName);
@@ -81,9 +80,13 @@ namespace MapleStory_SkillKeeper
                             {
                                 backgroundSimulate.Hwnd = process.MainWindowHandle;
                                 backgroundSimulate.KeyPress(skill.KeyInfo);
+                                skill.ConsecutiveTimes++;
+                                if (skill.ConsecutiveTimes > 1)
+                                    SystemSounds.Beep.Play();
                                 PreciseDelay.Delay(skill.Delay);
-                                return;
+                                continue;
                             }
+                            skill.ConsecutiveTimes = 0;
                         }
 
                         bool FindSkill(Bitmap bitmap, int percent)

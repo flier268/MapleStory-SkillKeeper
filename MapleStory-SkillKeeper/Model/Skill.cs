@@ -20,6 +20,7 @@ namespace MapleStory_SkillKeeper.Model
 
         public Bitmap Image { get; set; }
         public string Name { get; set; }
+        public int ConsecutiveTimes { get; set; }
 
         private bool Inited { get; }
 
